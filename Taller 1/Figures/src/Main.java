@@ -24,7 +24,7 @@ public class Main {
 		Circle ct;
 		ArrayList<Circle> cirList = new ArrayList<Circle>();
 
-		//************************RECTANGLED***************************
+		// ************************RECTANGLED***************************
 		System.out.println("Creating RectangleDs:");
 		System.out.println("\nRD1 (default):");
 		rdt = new RectangleD();
@@ -38,7 +38,7 @@ public class Main {
 			recDList.add(rdt);
 		}
 		System.out.println();
-		
+
 		System.out.println("**************************");
 		System.out.println("\nRectangleDs' data:");
 		for (int i = 0; i < recDList.size(); i++) {
@@ -51,7 +51,7 @@ public class Main {
 		}
 		System.out.println();
 
-		//************************RECTANGLE****************************		
+		// ************************RECTANGLE****************************
 		System.out.println("**************************");
 		System.out.println("\nCreating Rectangles:");
 		System.out.println("\nR1 (default):");
@@ -65,7 +65,7 @@ public class Main {
 			recList.add(rt);
 		}
 		System.out.println();
-		
+
 		System.out.println("**************************");
 		System.out.println("\nRectangles' data:");
 		for (int i = 0; i < recList.size(); i++) {
@@ -77,8 +77,8 @@ public class Main {
 			System.out.println("\tArea: " + rt.getArea());
 		}
 		System.out.println();
-		
-		//************************TRIANGLE*****************************
+
+		// ************************TRIANGLE*****************************
 		System.out.println("**************************");
 		System.out.println("\nCreating Triangles:");
 		System.out.println("\nT1 (default):");
@@ -92,7 +92,7 @@ public class Main {
 			trList.add(tt);
 		}
 		System.out.println();
-		
+
 		System.out.println("**************************");
 		System.out.println("\nTriangles' data:");
 		for (int i = 0; i < trList.size(); i++) {
@@ -104,8 +104,8 @@ public class Main {
 			System.out.println("\tArea: " + tt.getArea());
 		}
 		System.out.println();
-		
-		//************************CIRCLE*******************************
+
+		// ************************CIRCLE*******************************
 		System.out.println("**************************");
 		System.out.println("\nCreating Circles:");
 		System.out.println("\nC1 (default):");
@@ -118,12 +118,6 @@ public class Main {
 			cirList.add(ct);
 		}
 		System.out.println();
-
-		
-		
-		
-
-		
 
 		System.out.println("**************************");
 		System.out.println("\nCircles' data:");
