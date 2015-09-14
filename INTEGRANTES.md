@@ -2,4 +2,5 @@
 
 Integrantes
 
-Rafael A. Sarmiento Salazar    rasarmientos@unal.edu.co
+Rafael A. Sarmiento Salazar            rasarmientos@unal.edu.co
+Jhon Christian Rodriguez Ardila        jhcrodriguezar@unal.edu.co
